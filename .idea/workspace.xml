@@ -22,8 +22,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="571">
-              <caret line="998" column="23" lean-forward="true" selection-start-line="998" selection-start-column="23" selection-end-line="998" selection-end-column="23" />
+            <state relative-caret-position="14070">
+              <caret line="938" column="45" lean-forward="true" selection-start-line="938" selection-start-column="45" selection-end-line="938" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -33,42 +33,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="3570">
               <caret line="238" column="54" selection-start-line="238" selection-start-column="54" selection-end-line="238" selection-end-column="54" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/contact.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" selection-start-line="20" selection-end-line="32" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sayhello.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/css/sass/layout.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="371">
-              <caret line="1018" column="45" lean-forward="true" selection-start-line="1018" selection-start-column="45" selection-end-line="1018" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/css/layout.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17115">
-              <caret line="1141" selection-start-line="1141" selection-end-line="1141" />
             </state>
           </provider>
         </entry>
@@ -148,6 +112,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
@@ -225,7 +190,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="104779000" />
+    <option name="totallyTimeSpent" value="105124000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="830" extended-state="0" />
@@ -366,8 +331,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="571">
-          <caret line="998" column="23" lean-forward="true" selection-start-line="998" selection-start-column="23" selection-end-line="998" selection-end-column="23" />
+        <state relative-caret-position="14070">
+          <caret line="938" column="45" lean-forward="true" selection-start-line="938" selection-start-column="45" selection-end-line="938" selection-end-column="45" />
         </state>
       </provider>
     </entry>
