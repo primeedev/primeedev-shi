@@ -72,11 +72,11 @@ a:focus {
           color: #282828;
           text-transform: uppercase;
           padding: 10px 15px;
-          -webkit-transition: all 0.5s ease;
-          -moz-transition: all 0.5s ease;
-          -ms-transition: all 0.5s ease;
-          -o-transition: all 0.5s ease;
-          transition: all 0.5s ease;
+          -webkit-transition: all 0.2s ease;
+          -moz-transition: all 0.2s ease;
+          -ms-transition: all 0.2s ease;
+          -o-transition: all 0.2s ease;
+          transition: all 0.2s ease;
           text-decoration: none;
           font-weight: 400; }
         #header #main-menu ul li a:hover {
@@ -770,12 +770,12 @@ left: 170px;*/ }
     font-size: 36px;
     font-weight: 700;
     color: #fff;
-    margin: 10px;
+    margin: 5px 10px;
     transition: all 0.5s ease; }
   #testimonials .rsNav.rsTabs .rsNavItem.rsTab.active {
     background: #fff;
     color: #000;
-    margin: 5px 10px 5px 10px; }
+    margin: 5px 10px; }
   #testimonials .rsNav.rsTabs .rsNavItem.rsTab:hover {
     background: #d45988;
     border-bottom: 5px solid #d45988; }

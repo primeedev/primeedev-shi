@@ -3,8 +3,8 @@
 /*
 Shifter - One Page Studio & Creative HTML Template
 Document     : layout.css
-Created on   : October, 2018
-Author       : DigitalFudge - hello@digitalfudge.com
+Created on   : Aptil, 2019
+Author       : Prime Envy - hello@primeenvy.com
 Description  : Main style sheet for Shifter Template
 ------------------------------------------------------------------------------------------------------------------
 
@@ -393,7 +393,6 @@ section.filler {
     margin: 190px auto 0 auto;
     left: 10%;
     width: 50%;
-    img {}
 }
 
 img.gotime {
@@ -902,7 +901,6 @@ img.randomblur {
                         background-size: 20px;
                     }
                 }
-                img {}
             }
             li:nth-child(4) {
                 margin: 0 0 0 14px;
@@ -1487,7 +1485,7 @@ img.randomblur {
             width: 200px;
             background: #fff;
             .close {
-                background: url(../img/close-dark.png) 0 0 no-repeat;
+                background: url("../img/close-dark.png") 0 0 no-repeat;
                 width: 14px;
                 height: 14px;
                 background-size: 14px;
@@ -1649,11 +1647,6 @@ html {
 }
 
 #blog-article {
-    //-webkit-background-size: cover;
-    //-moz-background-size: cover;
-    //-o-background-size: cover;
-    //background-size: cover;
-    //overflow: hidden;
     .blog-header {
         position: fixed;
         overflow: hidden;
