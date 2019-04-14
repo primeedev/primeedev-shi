@@ -1,6 +1,7 @@
 jQuery(document).ready(function($) {
 
     var docwidth = $(window).width();
+    /* 1. Get the width of the document and toggle menu */
 
     if ((docwidth <= 1110  )) {
         $('#main-menu').addClass('resp');
@@ -31,6 +32,8 @@ jQuery(document).ready(function($) {
         }
     });
 
+    /* 2. Controls and options for the content slider */
+
     $('#content-slider-1').royalSlider({
         autoHeight: true,
         arrowsNav: true,
@@ -45,6 +48,8 @@ jQuery(document).ready(function($) {
         keyboardNavEnabled: true,
         usePreloader: false
     });
+
+    /* 3. Controls and options for the testimonials slider */
 
     $('#testimonials-slider').royalSlider({
         autoHeight: true,
@@ -61,6 +66,7 @@ jQuery(document).ready(function($) {
         usePreloader: false
     });
 
+    /* 4. Smooth Scroll */
     $('a').smoothScroll();
 
     $('#main-menu a').click(function(e) {
@@ -74,7 +80,8 @@ jQuery(document).ready(function($) {
     });
 
 
-    //Slider Custom Navigation
+    /* 5. Slider Custom Navigation */
+
     var mycount = $('.rsNav').length;
     for (var start1=1; start1<=mycount; start1++) {
         $('#testimonials .rsNavItem:nth-child('+ start1 +')').attr('class', 'replace-btn');
@@ -94,28 +101,22 @@ jQuery(document).ready(function($) {
     });
 });
 
+/* 6. Portfolio Filter*/
 $(function () {
-
     var filterList = {
-
         init: function () {
             $('#portfoliolist').mixItUp({
                 selectors: {
                     target: '.portfolio',
                     filter: '.filter'
                 },
-
             });
-
         }
-
     };
-
 
     filterList.init();
 
-//Scroll Spy
-
+    /* 7. Scroll Spy */
 
     var sections = [];
     var scrolled_id = false;
@@ -127,8 +128,6 @@ $(function () {
         sections.push($($(this).attr('href')));
 
     });
-
-
 
     $navbar__links.click(function(e){
         e.preventDefault();
@@ -161,7 +160,7 @@ $(function () {
 
     $(window).trigger('scroll');
 
-
+    /* 8. Blog Filter Badges */
     $('.filter-badge').click(function() {
         $('#blog-filter').toggleClass('show-filter');
     });
@@ -170,8 +169,8 @@ $(function () {
         $('#blog-filter').toggleClass('show-filter');
     });
 
+    /* 9. Send Email */
 
-//Send Email
     var form = $( "#contactform" );
 
     $( "#contactform" ).validate( {
@@ -206,23 +205,12 @@ $(function () {
     });
 
 
-
-
-
-    // var form = $( "#contactform" );
-    // form.validate();
-    // $( "#contactsubmit" ).click(function() {
-    //     alert( "Valid: " + form.valid() );
-    // });
-
-
-
+    /* 10. Form Validation */
 
     form.validate();
     $("#contactsubmit").click(function(e) {
         e.preventDefault();
         if(form.valid() == true){
-
 
             var firstname = $("#firstname").val();
             var email = $("#email").val();
@@ -235,14 +223,9 @@ $(function () {
                 data: { fname: firstname, mail: email, tel: mobile, msg: message }
             })
 
-                .done(function() {
-                    $(".action").text("Message Sent!");
-                    // $(".action").text("Message Sent!").fadeOut(3000 * 2);
-                });
-
-
-
+            .done(function() {
+                $(".action").text("Message Sent!");
+            });
         }
     });
-
 });
