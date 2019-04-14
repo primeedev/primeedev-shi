@@ -1,0 +1,632 @@
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  section {
+    padding-top: 70px;
+  }
+
+  .row {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  /* Header */
+  #header .burger-menu {
+    display: block;
+    float: right;
+  }
+  #header .burger-menu img {
+    width: 30px;
+  }
+  #header .navbar {
+    width: 100%;
+    float: none;
+    display: none;
+  }
+  #header #main-menu {
+    display: none;
+  }
+  #header #main-menu ul {
+    list-style: none;
+    padding: 0;
+    margin: 5px 0 0 0;
+    float: left;
+    width: 100%;
+    text-align: center;
+  }
+  #header #main-menu ul li {
+    margin: 5px 0 0 0;
+    float: left;
+    width: 100%;
+  }
+  #header #main-menu ul li a {
+    padding: 5px 15px;
+    display: block;
+  }
+  #header #main-menu ul li a:hover,
+  #header #main-menu ul li a:active {
+    padding: 5px 15px;
+    border-top: none;
+  }
+  #header #main-menu ul li .active-link {
+    color: #858585;
+    text-transform: uppercase;
+    padding: 5px 15px;
+    border-top: none;
+  }
+  #header #main-menu ul li.icons {
+    margin: 10px 0 0 0;
+    float: left;
+    display: block;
+    width: 33%;
+  }
+
+  /* Slider */
+  .contentSlider img.main-bg {
+    min-height: 100%;
+    min-width: auto;
+    width: 100%;
+    height: auto;
+    top: 62px;
+  }
+
+  .mouse.animate {
+    display: none;
+  }
+
+  .royalSlider {
+    height: 287px;
+  }
+  .royalSlider .gotime {
+    margin-top: 20%;
+  }
+  .royalSlider .rise {
+    margin-top: 30%;
+    width: 306px;
+  }
+  .royalSlider .smashit {
+    margin-top: 20%;
+  }
+  .royalSlider .smashit-1 {
+    margin-top: 20%;
+  }
+
+  section {
+    padding: 0 0 30px 0;
+  }
+
+  .sectionhead {
+    position: relative;
+    text-align: center;
+    height: 150px;
+    margin-bottom: 15px;
+  }
+  .sectionhead h1 {
+    font-size: 30px;
+    top: 70px;
+  }
+  .sectionhead h2 {
+    font-size: 100px;
+    top: -12px;
+  }
+  .sectionhead p {
+    font-size: 18px;
+    z-index: 1013;
+    top: 22px;
+  }
+  .sectionhead p br {
+    display: contents;
+  }
+
+  #welcome {
+    background: #fff;
+  }
+  #welcome .sectionhead {
+    margin-bottom: 10px;
+  }
+  #welcome .block-text {
+    margin: 5px;
+  }
+  #welcome br {
+    display: none;
+  }
+  #welcome #welcomehero {
+    margin-bottom: 30px;
+  }
+  #welcome #welcomehero figure {
+    margin: 30px auto 50px auto;
+    padding: 0 10px;
+  }
+  #welcome #welcomehero figure img {
+    width: 100%;
+  }
+  #welcome #introcolumns .item {
+    margin-bottom: 60px;
+  }
+
+  #feature {
+    padding-top: 50px;
+  }
+
+  #founder .sectionhead {
+    margin-bottom: 25px;
+  }
+  #founder .profile {
+    margin-bottom: 30px;
+  }
+  #founder .profile img.founder-profile {
+    width: 100%;
+  }
+  #founder .skill-collection .skill {
+    margin: 0 20px 40px 20px;
+  }
+  #founder .skill-collection .skill .info-box .skills {
+    width: 100%;
+  }
+  #founder .bottom-text {
+    margin: 0 30px 30px 30px;
+  }
+
+  #about .section-head {
+    margin-bottom: 25px;
+  }
+  #about .about-items p {
+    font-size: 16px;
+    width: 100%;
+    top: 175px;
+    left: 0;
+  }
+  #about .about-items .aboutbox {
+    margin-bottom: 70px;
+    height: 240px;
+  }
+
+  #team {
+    padding-bottom: 40px;
+  }
+  #team .sectionhead {
+    margin-bottom: 25px;
+  }
+  #team ul#team-members {
+    margin: 0 0 30px 0;
+  }
+  #team ul#team-members li {
+    width: 93%;
+    margin-bottom: 30px;
+  }
+  #team ul#team-members li img {
+    width: 100%;
+  }
+  #team ul#team-members li .content-holder {
+    width: 100%;
+  }
+  #team ul#team-members li .team-footer .popups {
+    top: 372px;
+    display: none;
+  }
+  #team .text-content .number {
+    margin: 0 auto 30px auto;
+  }
+  #team .text-content .sub-heading h2 {
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  #team .para p {
+    text-align: center;
+  }
+
+  /* Testimonials */
+  #testimonials .inner-content {
+    width: 100%;
+  }
+
+  /* Our Work */
+  #ourwork .block-text {
+    margin: 0 5px;
+  }
+  #ourwork .section-head {
+    margin-bottom: 25px;
+  }
+  #ourwork .gallery ul#filters {
+    width: 100%;
+    padding: 0 16px;
+    margin: 16px auto 32px auto;
+  }
+  #ourwork .gallery ul#filters li {
+    padding: 5px 24px;
+  }
+  #ourwork .gallery ul#filters li.heading {
+    display: none;
+  }
+  #ourwork .gallery ul.gallery-items li {
+    width: 100%;
+  }
+  #ourwork .drib a {
+    padding-right: 40px;
+  }
+
+  #pricing {
+    padding-bottom: 30px;
+  }
+  #pricing .block-text {
+    margin: 0 5px 142px 5px;
+  }
+  #pricing .sectionhead {
+    margin-bottom: 25px;
+  }
+  #pricing .pricecards {
+    padding: 0 20px;
+  }
+  #pricing .pricecards .col-md-4.single-card {
+    width: 100%;
+  }
+  #pricing .pricecards .col-md-4.single-card:nth-child(1),
+  #pricing .pricecards .col-md-4.single-card:nth-child(2),
+  #pricing .pricecards .col-md-4.single-card:nth-child(3) {
+    margin: 0 0 100px 0;
+  }
+
+  #blog {
+    padding-bottom: 30px;
+  }
+  #blog #blog-filter {
+    display: none;
+  }
+  #blog .block-text {
+    margin: 0 5px 142px 5px;
+  }
+  #blog .sectionhead {
+    margin-bottom: 25px;
+  }
+  #blog .single-post .main-img img {
+    width: 100%;
+  }
+  #blog .single-post .inner {
+    width: 100%;
+  }
+  #blog .single-post .inner .title {
+    font-size: 14px;
+    line-height: 16px;
+  }
+  #blog .single-post .inner .date {
+    display: block;
+    width: 90px;
+    right: 25px;
+    position: absolute;
+    bottom: -30px;
+  }
+  #blog .single-post .inner .comments {
+    left: 30px;
+    right: inherit;
+    margin: 0;
+    position: relative;
+    bottom: -20px;
+  }
+
+  section#hello {
+    padding: 50px 0 0 0;
+  }
+  section#hello .content .block-text {
+    margin: 0 5px 50px 5px;
+  }
+  section#hello .sectionhead {
+    margin-bottom: 25px;
+  }
+  section#hello .sectionhead h2 {
+    color: #444;
+  }
+  section#hello .contact-form form#contactform ul li.inputs:nth-child(1) {
+    margin: 0;
+  }
+  section#hello .contact-form form#contactform ul li.inputs {
+    width: 100%;
+    margin: 0;
+    padding: 10px 16px;
+  }
+  section#hello .contact-form form#contactform ul li.submit {
+    margin: 0;
+    padding: 10px 16px;
+  }
+  section#hello .contact-form form#contactform ul li.submit button {
+    width: 100%;
+    float: none;
+  }
+
+  #footer {
+    text-align: center;
+  }
+  #footer .top a {
+    display: block;
+    margin: 20px auto;
+    width: 100%;
+    text-align: center;
+  }
+
+  #blogpage #blog-article .blog-post .header .feature {
+    width: 100%;
+    padding: 10px;
+  }
+  #blogpage #blog-article .blog-post .header .feature .title h1 {
+    font-size: 14px;
+    line-height: 16px;
+  }
+  #blogpage #blog-article .blog-post .header .feature .poster img {
+    width: 50px;
+  }
+  #blogpage #blog-article .blog-post .header .feature .category {
+    display: none;
+  }
+  #blogpage #blog-article .blog-post .header .feature .category::after,
+  #blogpage #blog-article .blog-post .header .feature .comments,
+  #blogpage #blog-article .blog-post .header .feature .date {
+    display: none;
+  }
+  #blogpage #blog-article .blog-post .blog-content .blog-block-text,
+  #blogpage #blog-article .blog-post .blog-content .blog-block-text-single {
+    margin: 16px;
+  }
+}
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (max-width: 768px) {
+  #header .burger-menu {
+    display: block;
+    float: right;
+  }
+  #header .burger-menu img {
+    width: 30px;
+  }
+  #header .navbar {
+    width: 100%;
+    float: none;
+    display: block;
+  }
+  #header #main-menu.resp {
+    display: none;
+  }
+  #header #main-menu.resp ul {
+    list-style: none;
+    padding: 0;
+    margin: 5px 0 0 0;
+    float: left;
+    width: 100%;
+    text-align: center;
+  }
+  #header #main-menu.resp ul li {
+    margin: 5px 0 0 0;
+    float: left;
+    width: 100%;
+  }
+  #header #main-menu.resp ul li a {
+    padding: 5px 15px;
+    display: block;
+  }
+  #header #main-menu.resp ul li a:hover,
+  #header #main-menu.resp ul li a:active {
+    padding: 5px 15px;
+    border-top: none;
+  }
+  #header #main-menu.resp ul li .active-link {
+    color: #858585;
+    text-transform: uppercase;
+    padding: 5px 15px;
+    border-top: none;
+  }
+  #header #main-menu.resp ul li.icons {
+    margin: 10px 0 0 0;
+    float: left;
+    display: block;
+    width: 33%;
+  }
+
+  .mouse.animate {
+    display: none;
+  }
+
+  #welcome #welcomehero figure img {
+    width: 100%;
+  }
+
+  #founder figure {
+    margin-bottom: 30px;
+  }
+  #founder .profile .text-cover .bottom {
+    position: absolute;
+    padding: 0 25px;
+    font-family: "Roboto-Thin", sans-serif;
+    font-weight: 100;
+    bottom: 38px;
+    text-align: center;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+  }
+  #founder .skill-collection .skill .info-box .skills {
+    float: left;
+    width: 100%;
+    margin-left: 0;
+  }
+  #founder .bottom-text {
+    margin: 0 20px;
+  }
+
+  #team ul#team-members li {
+    margin: 15px;
+    width: 45%;
+  }
+  #team ul#team-members li img {
+    width: 100%;
+  }
+  #team ul#team-members li .popups {
+    display: none;
+  }
+  #team .text-content .number {
+    margin: 0 auto 30px auto;
+  }
+  #team .text-content .sub-heading h2 {
+    margin: 0 0 30px 0;
+    text-align: center;
+  }
+
+  #ourwork .gallery #portfoliolist .portfolio {
+    display: block;
+  }
+
+  #pricing {
+    padding-bottom: 30px;
+  }
+  #pricing .block-text {
+    margin: 0 5px 142px 5px;
+  }
+  #pricing .sectionhead {
+    margin-bottom: 25px;
+  }
+  #pricing .pricecards {
+    padding: 0 20px;
+  }
+  #pricing .pricecards .col-md-4.single-card {
+    width: 100%;
+  }
+  #pricing .pricecards .col-md-4.single-card:nth-child(1),
+  #pricing .pricecards .col-md-4.single-card:nth-child(2),
+  #pricing .pricecards .col-md-4.single-card:nth-child(3) {
+    margin: 0 0 100px 0;
+  }
+
+  #blog .single-post .main-img img {
+    width: 100%;
+  }
+}
+@media only screen and (max-width: 1110px) {
+  #header .burger-menu {
+    display: block;
+    float: right;
+  }
+  #header .burger-menu img {
+    width: 30px;
+  }
+  #header .navbar {
+    width: 100%;
+    float: none;
+    display: block;
+  }
+  #header #main-menu.resp {
+    display: none;
+  }
+  #header #main-menu.resp ul {
+    list-style: none;
+    padding: 0;
+    margin: 5px 0 0 0;
+    float: left;
+    width: 100%;
+    text-align: center;
+  }
+  #header #main-menu.resp ul li {
+    margin: 5px 0 0 0;
+    float: left;
+    width: 100%;
+  }
+  #header #main-menu.resp ul li a {
+    padding: 5px 15px;
+    display: block;
+  }
+  #header #main-menu.resp ul li a:hover,
+  #header #main-menu.resp ul li a:active {
+    padding: 5px 15px;
+    border-top: none;
+  }
+  #header #main-menu.resp ul li .active-link {
+    color: #858585;
+    text-transform: uppercase;
+    padding: 5px 15px;
+    border-top: none;
+  }
+  #header #main-menu.resp ul li.icons {
+    margin: 10px 0 0 0;
+    float: left;
+    display: block;
+    width: 33%;
+  }
+
+  #hello .socialbar ul {
+    width: 100%;
+  }
+
+  #stats .container-fluid {
+    padding: 0;
+  }
+}
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+  #founder .col-md-12 {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  #stats .container-fluid {
+    padding: 0;
+  }
+}
+@media only screen and (max-width: 768px) {
+  #founder .row,
+  #founder .col-md-12 {
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  #stats .container-fluid {
+    padding: 0;
+  }
+
+  #team ul#team-members li {
+    margin: 15px;
+    width: 92%;
+  }
+  #team ul#team-members li img {
+    width: 100%;
+  }
+}
+@media only screen and (min-width: 600px) {
+  #team ul#team-members li {
+    margin: 15px;
+    width: 45%;
+  }
+  #team ul#team-members li img {
+    width: 100%;
+  }
+  #team ul#team-members li .popups {
+    display: none;
+  }
+}
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (max-width: 320px) {
+  #team ul#team-members li {
+    margin: 15px;
+    width: 92%;
+  }
+  #team ul#team-members li img {
+    width: 100%;
+  }
+
+  #stats .container-fluid {
+    padding: 0;
+  }
+}
+@media only screen and (min-width: 1200px) {
+  #team ul#team-members li {
+    width: 255px;
+  }
+  #team ul#team-members li .popups {
+    display: none;
+  }
+}
+@media only screen and (max-width: 601px) {
+  body section {
+    padding-top: 70px;
+  }
+}
+@media only screen and (max-width: 1110px) {
+  section {
+    padding-top: 60px;
+  }
+}
