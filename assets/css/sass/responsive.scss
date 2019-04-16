@@ -1,3 +1,25 @@
+/*
+Shifter - One Page Studio & Creative HTML Template
+Document     : responsive.scss
+Created on   : April, 2019
+Author       : Prime Envy - support@primeenvy.com
+Description  : Responsive style sheet for the Shifter Template
+------------------------------------------------------------------------------------------------------------------
+
+All sections are marked to make it easier to navigate, edit and maintain the css.
+
+1. Variables
+2. Extra small devices (phones, 600px and down)
+3. Mobile Slider
+4. Medium devices (landscape tablets, 768px and up)
+5. Large devices (laptops/desktops, 992px and up)
+6. Extra large devices (large laptops and desktops, 1200px and up)
+*/
+
+/* 1. Variables
+--------------------------
+*/
+
 $black: #282828;
 $grey: #858585;
 $pink: #ff00a2;
@@ -7,7 +29,10 @@ $slow-trans: all 2s ease;
 $mid-trans: all 1s ease;
 $text-shadow: 0px 2px 4px #000;
 
-/* Extra small devices (phones, 600px and down) */
+
+/* 2. Extra small devices (phones, 600px and down)
+--------------------------
+*/
 
 @media only screen and (max-width: 600px) {
     section {
@@ -69,7 +94,11 @@ $text-shadow: 0px 2px 4px #000;
             }
         }
     }
-    /* Slider */
+
+
+/* 3. Mobile Slider
+--------------------------
+*/
     .contentSlider img.main-bg {
         min-height: 100%;
         min-width: auto;
@@ -436,7 +465,9 @@ $text-shadow: 0px 2px 4px #000;
 }
 
 
-/* Medium devices (landscape tablets, 768px and up) */
+/* 4. Medium devices (landscape tablets, 768px and up)
+--------------------------
+*/
 
 @media only screen and (max-width: 768px) {
     #header {
@@ -648,7 +679,7 @@ $text-shadow: 0px 2px 4px #000;
             }
         }
     }
-    
+
     #stats {
         .container-fluid {
             padding: 0;
@@ -657,7 +688,9 @@ $text-shadow: 0px 2px 4px #000;
 }
 
 
-/* Large devices (laptops/desktops, 992px and up) */
+/* 5. Large devices (laptops/desktops, 992px and up)
+--------------------------
+*/
 
 @media only screen and (min-width: 992px) {
     #founder {
@@ -711,7 +744,9 @@ $text-shadow: 0px 2px 4px #000;
 }
 
 
-/* Extra large devices (large laptops and desktops, 1200px and up) */
+/* 6. Extra large devices (large laptops and desktops, 1200px and up)
+--------------------------
+*/
 
 @media only screen and (max-width: 320px) {
     #team ul#team-members li {
