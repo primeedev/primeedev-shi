@@ -2,20 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d16b2c6-1905-4a60-abc3-47159d3a846c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/primeedev-shi.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/css/layout.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/css/layout.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/css/responsive.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/css/responsive.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/layout.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/responsive.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/sass/layout.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/sass/layout.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/sass/responsive.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/sass/responsive.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/blog-post1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/blog-post1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/blog-post2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/blog-post2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/blog-post3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/blog-post3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/blog-post4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/blog-post4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/blog-poster.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/blogpostheader.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/blogpostheader.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/gallery/gallery_02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/gallery/gallery_02.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/gallery/gallery_04.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/gallery/gallery_04.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/gallery/gallery_05.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/gallery/gallery_05.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/gallery/gallery_07.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/gallery/gallery_07.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/gallery/gallery_10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/gallery/gallery_10.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/gallery/gallery_12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/gallery/gallery_12.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/ice-cream.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/ice-cream.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/slider/bike.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/slider/bike.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/slider/glasses.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/slider/glasses.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/slider/prowl.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/slider/prowl.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/slider/prowl2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/stats-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/stats-bg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/tm-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/tm-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/tm-3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/tm-4.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/tm-4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/welcome-to-shifter.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/welcome-to-shifter.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/welcome.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/welcome.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/themescripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/themescripts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sayhello.php" beforeDir="false" afterPath="$PROJECT_DIR$/sayhello.php" afterDir="false" />
     </list>
     <ignored path="practice.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -34,61 +50,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="481">
-              <caret line="992" column="108" lean-forward="true" selection-start-line="992" selection-end-line="992" selection-end-column="108" />
+            <state relative-caret-position="14820">
+              <caret line="988" column="30" lean-forward="true" selection-start-line="988" selection-start-column="30" selection-end-line="988" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/js/themescripts.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="401">
-              <caret line="80" lean-forward="true" selection-start-line="80" selection-end-line="80" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="46" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/css/sass/responsive.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/css/responsive.css">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/css/sass/layout.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="33" selection-start-line="33" selection-end-line="35" selection-end-column="2" />
+            <state relative-caret-position="90">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -106,7 +81,15 @@
       <find>5px 10px</find>
       <find>Large devices (laptops/desktops, 992px and up)</find>
       <find>smooth</find>
+      <find>spy</find>
+      <find>interval</find>
+      <find>contact</find>
+      <find>prowl</find>
+      <find>bootstrap</find>
     </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -125,14 +108,14 @@
         <option value="$PROJECT_DIR$/assets/js/index.js" />
         <option value="$PROJECT_DIR$/text.html" />
         <option value="$PROJECT_DIR$/contact.php" />
-        <option value="$PROJECT_DIR$/sayhello.php" />
-        <option value="$PROJECT_DIR$/assets/js/themescripts.js" />
         <option value="$PROJECT_DIR$/assets/js/bootstrap.min.js" />
         <option value="$PROJECT_DIR$/blog.html" />
         <option value="$PROJECT_DIR$/assets/css/layout.css" />
         <option value="$PROJECT_DIR$/assets/css/sass/layout.scss" />
         <option value="$PROJECT_DIR$/assets/css/sass/responsive.scss" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/sayhello.php" />
+        <option value="$PROJECT_DIR$/assets/js/themescripts.js" />
       </list>
     </option>
   </component>
@@ -141,7 +124,6 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="10" />
     <option name="y" value="22" />
     <option name="width" value="1440" />
     <option name="height" value="830" />
@@ -152,7 +134,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -181,6 +162,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -262,14 +244,16 @@
       <workItem from="1555352657756" duration="74000" />
       <workItem from="1555352743092" duration="1289000" />
       <workItem from="1555354198742" duration="1854000" />
+      <workItem from="1555442839352" duration="4166000" />
+      <workItem from="1555790964025" duration="4455000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="109920000" />
+    <option name="totallyTimeSpent" value="118541000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="22" width="1440" height="830" extended-state="0" />
+    <frame x="0" y="22" width="1440" height="830" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17829457" />
@@ -370,20 +354,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/contact.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" selection-start-line="20" selection-end-line="32" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sayhello.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/js/bootstrap.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -408,6 +378,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/blog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="46" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/sass/responsive.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -420,36 +397,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/sass/layout.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" selection-start-line="33" selection-end-line="35" selection-end-column="2" />
+        <state relative-caret-position="6060">
+          <caret line="404" column="15" selection-start-line="404" selection-start-column="15" selection-end-line="404" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog.html">
+    <entry file="file://$PROJECT_DIR$/contact.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="46" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
+        <state relative-caret-position="510">
+          <caret line="34" column="12" lean-forward="true" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/styles.css">
+    <entry file="file://$PROJECT_DIR$/sayhello.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="6" />
+        <state relative-caret-position="435">
+          <caret line="29" column="2" selection-start-line="29" selection-start-column="2" selection-end-line="29" selection-end-column="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/js/themescripts.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
-          <caret line="80" lean-forward="true" selection-start-line="80" selection-end-line="80" />
+        <state relative-caret-position="195">
+          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="481">
-          <caret line="992" column="108" lean-forward="true" selection-start-line="992" selection-end-line="992" selection-end-column="108" />
+        <state relative-caret-position="14820">
+          <caret line="988" column="30" lean-forward="true" selection-start-line="988" selection-start-column="30" selection-end-line="988" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>

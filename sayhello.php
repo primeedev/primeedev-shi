@@ -4,14 +4,6 @@
   $tel = Trim(stripslashes($_POST['tel']));
   $msg = Trim(stripslashes($_POST['msg']));
 
-
-
-  // $fname = "ax1";
-  // $mail = "ax2";
-  // $tel = "ax3";
-  // $msg = "ax4";
-
-
   $to = "kobusswartz01@gmail.com";
   $subject = "Shifter Feedback";
   $from = $mail;    
@@ -33,18 +25,6 @@
 
   mail($to, $subject, $Body);   
 
-  echo ("PHP Accessed");
-
-//   if($fname) {
-// echo "success";
-//   } else {
-// echo "Something went wrong";
-//   }
+  echo ("Oops, something went wrong, please try again.");
 
 ?>
-
-
-
-
-
-

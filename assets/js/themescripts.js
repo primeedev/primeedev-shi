@@ -12,7 +12,6 @@ jQuery(document).ready(function($) {
         $(".navbar li a").click(function(){
             $('#main-menu.resp').slideUp();
         });
-
     }
 
     if ((docwidth >= 1110  )) {
@@ -34,20 +33,20 @@ jQuery(document).ready(function($) {
 
     /* 2. Controls and options for the content slider */
 
-    $('#content-slider-1').royalSlider({
-        autoHeight: true,
-        arrowsNav: true,
-        fadeinLoadedSlide: true,
-        controlNavigationSpacing: 0,
-        controlNavigation: 'tabs',
-        imageScaleMode: 'none',
-        imageAlignCenter:false,
-        loop: false,
-        loopRewind: true,
-        numImagesToPreload: 6,
-        keyboardNavEnabled: true,
-        usePreloader: false
-    });
+        $('#content-slider-1').royalSlider({
+            autoHeight: true,
+            arrowsNav: true,
+            fadeinLoadedSlide: true,
+            controlNavigationSpacing: 0,
+            controlNavigation: 'tabs',
+            imageScaleMode: 'none',
+            imageAlignCenter:false,
+            loop: false,
+            loopRewind: true,
+            numImagesToPreload: 6,
+            keyboardNavEnabled: true,
+            usePreloader: false
+        });
 
     /* 3. Controls and options for the testimonials slider */
 
